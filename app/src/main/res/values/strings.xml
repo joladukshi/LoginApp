@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="action_login">LogIn</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="error_unknown">An unknown error occurred</string>
+    <string name="error_internal_server">Internal Server Error</string>
+    <string name="error_wrong_credentials">Your email or password is not correct</string>
+    <string name="msg_login_success">You are loggedIn successfully</string>
+    <string name="empty_email">Email field should not be empty.</string>
+    <string name="empty_password">Password field should not be empty</string>
+</resources>
